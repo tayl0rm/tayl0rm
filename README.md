@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Matty!
 
-<!--
-**tayl0rm/tayl0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Cloud Platform Engineer from the Manchester (UK) area.
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+- **Languages**: Go, Python, YAML, Terraform
+- **DevOps Tools**: Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins
+- **Cloud**: Google Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayl0rm&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tayl0rm&theme=radical)
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayl0rm&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/matthew-taylor23/)
+
+---
+
+⭐️ From [tayl0rm](https://github.com/tayl0rm)
